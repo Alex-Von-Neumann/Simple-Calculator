@@ -1,4 +1,4 @@
-from aritmetic import *
+from arithmetic import *
 
 # Program's begin
 
